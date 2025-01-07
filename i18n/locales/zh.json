@@ -1,0 +1,43 @@
+{
+  "website": {
+    "name": "Squid Game Thanos",
+    "title": "Squid Game Thanos - 终极生存挑战",
+    "description": "体验结合鱿鱼游戏与灭霸力量的终极生存游戏。立即开始！"
+  },
+  "Navbar": {
+    "home": "首页",
+    "play": "游戏",
+    "menu": "菜单"
+  },
+  "Footer": {
+    "description": "加入 Squid Game Thanos 的终极生存挑战，在这里，鱿鱼游戏的激烈竞争遇上灭霸的宇宙力量。一场挑战你极限的独特游戏体验正等着你。",
+    "social": "社交媒体",
+    "twitter": "Twitter",
+    "discord": "Discord",
+    "telegram": "Telegram",
+    "legal": "法律条款",
+    "privacy": "隐私政策",
+    "terms": "使用条款",
+    "contact": "联系我们",
+    "copyright": "版权所有"
+  },
+  "Faq": {
+    "title": "Squid Game Thanos - 游戏指南",
+    "description": "学习如何在 Squid Game Thanos 的终极生存挑战中成为冠军",
+    "howToPlay": "如何玩 Squid Game Thanos？",
+    "howToPlayAnswer": "Squid Game Thanos 将'一二三木头人'游戏的刺激元素与多人生存竞技相结合。与众多玩家竞争冲向终点线。当 NPC 背对玩家时你可以移动，但当他转身面向玩家时必须完全静止。",
+    "controls": "如何控制 Squid Game Thanos 中的角色？",
+    "controlsAnswer": "游戏采用直观的鼠标控制。按住鼠标左键并朝想要移动的方向拖动。快速反应至关重要 - 当 NPC 转身时你必须立即放开鼠标以停止移动。",
+    "rules": "Squid Game Thanos 的规则是什么？",
+    "rulesAnswer": "1. 只有当 NPC 背对时才能移动\n2. 当 NPC 面向玩家时必须完全静止\n3. 监视期间若被检测到移动将立即淘汰\n4. 与其他玩家竞争前进目标\n5. 只有第一个到达目标的玩家能够生存",
+    "death": "如何在 Squid Game Thanos 中被淘汰？",
+    "deathAnswer": "在 Squid Game Thanos 中，当 NPC 面向玩家时若被检测到移动将立即被淘汰。在多人竞技中，即使最微小的移动也无法逃过检测并导致立即淘汰。时刻保持警惕，随时准备停止移动。",
+    "win": "如何在 Squid Game Thanos 中获胜？",
+    "winAnswer": "要在 Squid Game Thanos 中获胜，你需要速度与策略的完美结合。你必须快速到达终点线同时避免被淘汰。完美预测 NPC 的动作，在安全时果断移动，危险接近时立即停止。记住，只有最快速且最具策略的玩家才能在 Squid Game Thanos 中生存。"
+  },
+  "Hero": {
+    "title": "Squid Game Thanos 挑战",
+    "description": "结合鱿鱼游戏刺激挑战与灭霸惊人力量的终极生存游戏。准备好测试你的技能了吗？",
+    "action": "立即游戏"
+  }
+}

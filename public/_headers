@@ -1,0 +1,19 @@
+/logo.svg
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/svg+xml
+
+/favicon.ico
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/x-icon
+
+/apple-touch-icon.png
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: image/png
+
+/*
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  X-XSS-Protection: 1; mode=block
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; 

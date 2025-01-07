@@ -1,0 +1,43 @@
+{
+  "website": {
+    "name": "Permainan Sotong Thanos",
+    "title": "Permainan Sotong Thanos - Cabaran Survival Muktamad",
+    "description": "Alami permainan survival muktamad yang menggabungkan Permainan Sotong dengan kuasa Thanos. Main sekarang!"
+  },
+  "Navbar": {
+    "home": "Utama",
+    "play": "Main",
+    "menu": "Menu"
+  },
+  "Footer": {
+    "description": "Sertai cabaran survival muktamad Permainan Sotong Thanos, di mana persaingan sengit Permainan Sotong bertemu dengan kuasa kosmik Thanos. Pengalaman permainan unik yang mencabar had anda menanti.",
+    "social": "Sosial",
+    "twitter": "Twitter",
+    "discord": "Discord",
+    "telegram": "Telegram",
+    "legal": "Perundangan",
+    "privacy": "Dasar Privasi",
+    "terms": "Terma Penggunaan",
+    "contact": "Hubungi Kami",
+    "copyright": "All rights reserved"
+  },
+  "Faq": {
+    "title": "Permainan Sotong Thanos - Panduan Permainan",
+    "description": "Pelajari cara untuk menjadi juara dalam cabaran survival muktamad Permainan Sotong Thanos",
+    "howToPlay": "Bagaimana untuk bermain Permainan Sotong Thanos?",
+    "howToPlayAnswer": "Permainan Sotong Thanos menggabungkan elemen menegangkan permainan 'Ular Naga' dengan aksi survival pemain berbilang. Bersaing dengan ramai pemain lain menuju ke garisan penamat. Anda boleh bergerak apabila NPC membelakangi anda, tetapi mesti berhenti sepenuhnya apabila dia berpaling ke arah pemain.",
+    "controls": "Bagaimana untuk mengawal watak dalam Permainan Sotong Thanos?",
+    "controlsAnswer": "Permainan ini menggunakan kawalan tetikus yang intuitif. Tekan dan tahan klik kiri sambil menyeret ke arah yang anda ingin gerak. Tindak balas pantas adalah penting - anda perlu melepaskan tetikus dengan segera untuk berhenti apabila NPC berpaling.",
+    "rules": "Apakah peraturan Permainan Sotong Thanos?",
+    "rulesAnswer": "1. Hanya boleh bergerak apabila NPC membelakangi\n2. Mesti berhenti sepenuhnya apabila NPC menghadap pemain\n3. Tersingkir serta-merta jika pergerakan dikesan semasa pengawasan\n4. Bersaing dengan pemain lain menuju ke matlamat\n5. Hanya pemain pertama yang sampai ke matlamat akan terselamat",
+    "death": "Bagaimana anda boleh tersingkir dalam Permainan Sotong Thanos?",
+    "deathAnswer": "Dalam Permainan Sotong Thanos, anda akan tersingkir serta-merta jika pergerakan dikesan semasa NPC menghadap ke arah pemain. Dalam persaingan berbilang pemain, pergerakan sekecil mana pun akan dikesan dan mengakibatkan penyingkiran serta-merta. Sentiasa berwaspada dan bersedia untuk berhenti pada bila-bila masa.",
+    "win": "Bagaimana untuk menang dalam Permainan Sotong Thanos?",
+    "winAnswer": "Untuk menang dalam Permainan Sotong Thanos, anda memerlukan kelajuan dan strategi. Anda mesti sampai ke garisan penamat dengan pantas sambil mengelak daripada tersingkir. Ramal pergerakan NPC dengan sempurna, bergerak dengan berani apabila selamat, dan berhenti serta-merta apabila bahaya menghampiri. Ingat, hanya pemain yang paling pantas dan strategik akan terselamat dalam Permainan Sotong Thanos."
+  },
+  "Hero": {
+    "title": "Cabaran Permainan Sotong Thanos",
+    "description": "Permainan survival muktamad yang menggabungkan cabaran menegangkan Permainan Sotong dengan kuasa mengagumkan Thanos. Sudah bersedia untuk menguji kemahiran anda?",
+    "action": "Main Sekarang"
+  }
+}

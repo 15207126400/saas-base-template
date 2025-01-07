@@ -1,0 +1,43 @@
+{
+  "website": {
+    "name": "Squid Game Thanos",
+    "title": "Squid Game Thanos - Ultimate Survival Challenge",
+    "description": "Experience the ultimate survival game that combines Squid Game with the powers of Thanos. Start playing now!"
+  },
+  "Navbar": {
+    "home": "Home",
+    "play": "Play Now",
+    "menu": "Menu"
+  },
+  "Hero": {
+    "title": "Squid Game Thanos Challenge",
+    "description": "Experience the ultimate survival game that combines the intense challenges of Squid Game with the epic powers of Thanos. Are you ready to test your skills?",
+    "action": "Play Now"
+  },
+  "Footer": {
+    "description": "Join the ultimate survival challenge in Squid Game Thanos, where the intense competition of Squid Game meets the cosmic powers of Thanos. Experience a unique gaming adventure that will test your limits.",
+    "social": "Social",
+    "twitter": "Twitter",
+    "discord": "Discord",
+    "telegram": "Telegram",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact",
+    "copyright": "All rights reserved"
+  },
+  "Faq": {
+    "title": "Squid Game Thanos - Game Guide",
+    "description": "Master the ultimate survival challenge in Squid Game Thanos and become the champion",
+    "howToPlay": "How do you play Squid Game Thanos?",
+    "howToPlayAnswer": "Squid Game Thanos combines the thrilling mechanics of \"Red Light, Green Light\" with multiplayer survival action. You'll compete against a crowd of players, all racing towards the finish line. When the NPC's back is turned, you can move, but when they face the players, everyone must freeze instantly or face elimination.",
+    "controls": "How do you control your character in Squid Game Thanos?",
+    "controlsAnswer": "The game features intuitive mouse controls designed for intense competition: hold down the left mouse button and drag in your desired direction to move. Your character in Squid Game Thanos will follow your mouse movement. Quick reflexes are crucial - release the mouse immediately when the NPC turns to avoid elimination.",
+    "rules": "What are the rules of Squid Game Thanos?",
+    "rulesAnswer": "1. Move only when the NPC's back is turned\n2. Freeze completely when the NPC faces the players\n3. If caught moving during observation, you'll be instantly eliminated\n4. Race against other players to be the first to reach the finish line\n5. Only the first players to reach the goal will survive",
+    "death": "What causes elimination in Squid Game Thanos?",
+    "deathAnswer": "In Squid Game Thanos, elimination occurs if you're caught moving when the NPC turns to face the players. The challenge intensifies with multiple players - any movement, no matter how slight, will be detected and result in immediate elimination. Stay alert and be ready to stop instantly.",
+    "win": "How do you win in Squid Game Thanos?",
+    "winAnswer": "Victory in Squid Game Thanos requires both speed and strategy. You must be among the first players to reach the finish line while avoiding elimination. This means perfectly timing your movements, advancing aggressively during safe periods, and stopping instantly when danger approaches. Remember, in Squid Game Thanos, only the fastest and most strategic players survive."
+  }
+}

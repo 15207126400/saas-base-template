@@ -1,0 +1,43 @@
+{
+  "website": {
+    "name": "Squid Game Thanos",
+    "title": "Squid Game Thanos - Die Ultimative Überlebensherausforderung",
+    "description": "Erlebe das ultimative Überlebensspiel, das Squid Game mit der Macht von Thanos verbindet. Spiele jetzt!"
+  },
+  "Navbar": {
+    "home": "Startseite",
+    "play": "Spielen",
+    "menu": "Menü"
+  },
+  "Footer": {
+    "description": "Nimm an der ultimativen Überlebensherausforderung von Squid Game Thanos teil, wo der intensive Wettkampf von Squid Game auf die kosmische Macht von Thanos trifft. Ein einzigartiges Spielerlebnis, das deine Grenzen testet, erwartet dich.",
+    "social": "Social Media",
+    "twitter": "Twitter",
+    "discord": "Discord",
+    "telegram": "Telegram",
+    "legal": "Rechtliches",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen",
+    "contact": "Kontakt",
+    "copyright": "Alle Rechte vorbehalten"
+  },
+  "Faq": {
+    "title": "Squid Game Thanos - Spielanleitung",
+    "description": "Erfahre, wie du zum Champion in der ultimativen Überlebensherausforderung von Squid Game Thanos wirst",
+    "howToPlay": "Wie spielt man Squid Game Thanos?",
+    "howToPlayAnswer": "Squid Game Thanos verbindet die spannenden Elemente des 'Rotes Licht, Grünes Licht'-Spiels mit Multiplayer-Survival-Action. Tritt gegen viele andere Spieler im Wettlauf zur Ziellinie an. Du kannst dich bewegen, wenn der NPC mit dem Rücken zu dir steht, musst aber komplett stillstehen, wenn er sich zu den Spielern umdreht.",
+    "controls": "Wie steuert man die Figur in Squid Game Thanos?",
+    "controlsAnswer": "Das Spiel verwendet intuitive Maussteuerung. Halte die linke Maustaste gedrückt und ziehe in die Richtung, in die du dich bewegen möchtest. Schnelle Reaktion ist entscheidend - du musst die Maus sofort loslassen, um anzuhalten, wenn sich der NPC umdreht.",
+    "rules": "Was sind die Regeln von Squid Game Thanos?",
+    "rulesAnswer": "1. Du darfst dich nur bewegen, wenn der NPC mit dem Rücken zu dir steht\n2. Du musst komplett stillstehen, wenn der NPC die Spieler ansieht\n3. Sofortige Eliminierung bei erkannter Bewegung während der Überwachung\n4. Wettkampf mit anderen Spielern zum Ziel\n5. Nur der erste Spieler, der das Ziel erreicht, überlebt",
+    "death": "Wie wird man in Squid Game Thanos eliminiert?",
+    "deathAnswer": "In Squid Game Thanos wirst du sofort eliminiert, wenn eine Bewegung erkannt wird, während der NPC in Richtung der Spieler schaut. Im Multiplayer-Wettkampf bleibt selbst die kleinste Bewegung nicht unbemerkt und führt zur sofortigen Eliminierung. Bleibe stets wachsam und bereit, jederzeit anzuhalten.",
+    "win": "Wie gewinnt man in Squid Game Thanos?",
+    "winAnswer": "Um in Squid Game Thanos zu gewinnen, brauchst du sowohl Geschwindigkeit als auch Strategie. Du musst schnell die Ziellinie erreichen und dabei der Eliminierung entgehen. Antizipiere die Bewegungen des NPCs perfekt, bewege dich mutig, wenn es sicher ist, und halte sofort an, wenn sich Gefahr nähert. Denk dran, nur die schnellsten und strategischsten Spieler überleben in Squid Game Thanos."
+  },
+  "Hero": {
+    "title": "Die Squid Game Thanos Herausforderung",
+    "description": "Das ultimative Überlebensspiel, das die spannenden Herausforderungen von Squid Game mit der beeindruckenden Macht von Thanos verbindet. Bist du bereit, deine Fähigkeiten zu testen?",
+    "action": "Jetzt Spielen"
+  }
+}

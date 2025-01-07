@@ -1,0 +1,43 @@
+{
+  "website": {
+    "name": "Squid Game Thanos",
+    "title": "Squid Game Thanos - Tantangan Bertahan Hidup Ultimate",
+    "description": "Rasakan game bertahan hidup ultimate yang menggabungkan Squid Game dengan kekuatan Thanos. Main sekarang!"
+  },
+  "Navbar": {
+    "home": "Beranda",
+    "play": "Main",
+    "menu": "Menu"
+  },
+  "Footer": {
+    "description": "Bergabunglah dalam tantangan bertahan hidup ultimate Squid Game Thanos, di mana persaingan sengit Squid Game bertemu dengan kekuatan kosmik Thanos. Pengalaman bermain game yang unik menantang batas Anda menunggu.",
+    "social": "Sosial",
+    "twitter": "Twitter",
+    "discord": "Discord",
+    "telegram": "Telegram",
+    "legal": "Legal",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Ketentuan Penggunaan",
+    "contact": "Hubungi Kami",
+    "copyright": "All rights reserved"
+  },
+  "Faq": {
+    "title": "Squid Game Thanos - Panduan Permainan",
+    "description": "Pelajari cara menjadi juara dalam tantangan bertahan hidup ultimate Squid Game Thanos",
+    "howToPlay": "Bagaimana cara bermain Squid Game Thanos?",
+    "howToPlayAnswer": "Squid Game Thanos menggabungkan elemen menegangkan dari permainan 'Patung-patungan' dengan aksi survival multiplayer. Bersaing dengan banyak pemain lain menuju garis finish. Anda bisa bergerak saat NPC membelakangi, tapi harus berhenti total saat dia berbalik menghadap pemain.",
+    "controls": "Bagaimana cara mengontrol karakter di Squid Game Thanos?",
+    "controlsAnswer": "Game ini menggunakan kontrol mouse yang intuitif. Tekan dan tahan klik kiri sambil menyeret ke arah yang ingin Anda tuju. Respon cepat sangat penting - Anda harus melepaskan mouse segera untuk berhenti saat NPC berbalik.",
+    "rules": "Apa saja peraturan Squid Game Thanos?",
+    "rulesAnswer": "1. Hanya bisa bergerak saat NPC membelakangi\n2. Harus berhenti total saat NPC menghadap pemain\n3. Langsung tereliminasi jika terdeteksi bergerak saat diawasi\n4. Bersaing dengan pemain lain menuju tujuan\n5. Hanya pemain pertama yang mencapai tujuan yang akan selamat",
+    "death": "Bagaimana cara tereliminasi di Squid Game Thanos?",
+    "deathAnswer": "Di Squid Game Thanos, Anda akan langsung tereliminasi jika terdeteksi bergerak saat NPC menghadap ke arah pemain. Dalam kompetisi multiplayer, gerakan sekecil apapun tidak akan luput dan langsung mengakibatkan eliminasi. Selalu waspada dan siap untuk berhenti kapan saja.",
+    "win": "Bagaimana cara menang di Squid Game Thanos?",
+    "winAnswer": "Untuk menang di Squid Game Thanos, Anda memerlukan kecepatan dan strategi. Anda harus mencapai garis finish dengan cepat sambil menghindari eliminasi. Prediksi gerakan NPC dengan sempurna, bergerak dengan berani saat aman, dan berhenti seketika saat bahaya mendekat. Ingat, hanya pemain tercepat dan paling strategis yang akan bertahan di Squid Game Thanos."
+  },
+  "Hero": {
+    "title": "Tantangan Squid Game Thanos",
+    "description": "Game bertahan hidup ultimate yang menggabungkan tantangan menegangkan Squid Game dengan kekuatan dahsyat Thanos. Sudah siap menguji kemampuan Anda?",
+    "action": "Main Sekarang"
+  }
+}

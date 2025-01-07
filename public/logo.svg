@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="256" cy="256" r="248" fill="#1a1a1a" stroke="#FF0066" stroke-width="16"/>
+  
+  <!-- Squid Game Triangle -->
+  <path d="M256 100 L412 400 L100 400 Z" stroke="#FF0066" stroke-width="16" fill="none"/>
+  
+  <!-- Thanos Infinity Gauntlet Elements -->
+  <circle cx="256" cy="256" r="40" fill="#FFD700"/>
+  <circle cx="256" cy="176" r="20" fill="#9B59B6"/>
+  <circle cx="336" cy="256" r="20" fill="#3498DB"/>
+  <circle cx="256" cy="336" r="20" fill="#2ECC71"/>
+  <circle cx="176" cy="256" r="20" fill="#E74C3C"/>
+  <circle cx="216" cy="216" r="20" fill="#F1C40F"/>
+  
+  <!-- Mask Pattern -->
+  <circle cx="256" cy="256" r="120" stroke="#FF0066" stroke-width="8" stroke-dasharray="20,10" fill="none"/>
+</svg> 

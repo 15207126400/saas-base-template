@@ -1,0 +1,43 @@
+{
+  "website": {
+    "name": "Squid Game Thanos",
+    "title": "Squid Game Thanos - Nihai Hayatta Kalma Mücadelesi",
+    "description": "Squid Game ile Thanos'un gücünü birleştiren nihai hayatta kalma oyununu deneyimleyin. Şimdi oynayın!"
+  },
+  "Navbar": {
+    "home": "Ana Sayfa",
+    "play": "Oyna",
+    "menu": "Menü"
+  },
+  "Footer": {
+    "description": "Squid Game'in yoğun rekabetinin Thanos'un kozmik gücüyle buluştuğu Squid Game Thanos'un nihai hayatta kalma mücadelesine katılın. Sınırlarınızı zorlayan benzersiz bir oyun deneyimi sizi bekliyor.",
+    "social": "Sosyal",
+    "twitter": "Twitter",
+    "discord": "Discord",
+    "telegram": "Telegram",
+    "legal": "Yasal",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Koşulları",
+    "contact": "İletişim",
+    "copyright": "Tüm hakları saklıdır"
+  },
+  "Faq": {
+    "title": "Squid Game Thanos - Oyun Rehberi",
+    "description": "Squid Game Thanos'un nihai hayatta kalma mücadelesinde nasıl şampiyon olunacağını öğrenin",
+    "howToPlay": "Squid Game Thanos nasıl oynanır?",
+    "howToPlayAnswer": "Squid Game Thanos, 'Kırmızı Işık, Yeşil Işık' oyununun heyecan verici öğelerini çok oyunculu hayatta kalma aksiyonuyla birleştirir. Diğer oyuncularla bitiş çizgisine doğru yarışın. NPC arkasını döndüğünde hareket edebilirsiniz, ancak oyunculara döndüğünde tamamen durmalısınız.",
+    "controls": "Squid Game Thanos'ta karakter nasıl kontrol edilir?",
+    "controlsAnswer": "Oyun, sezgisel fare kontrollerini kullanır. Gitmek istediğiniz yöne sürüklerken sol tıklamayı basılı tutun. Hızlı tepki çok önemlidir - NPC döndüğünde durmak için fareyi hemen bırakmalısınız.",
+    "rules": "Squid Game Thanos'un kuralları nelerdir?",
+    "rulesAnswer": "1. Sadece NPC arkasını döndüğünde hareket edilebilir\n2. NPC oyunculara baktığında tamamen durmalısınız\n3. Gözetim sırasında hareket tespit edilirse anında eleme\n4. Diğer oyuncularla hedefe doğru yarışın\n5. Sadece hedefe ilk ulaşan oyuncu hayatta kalır",
+    "death": "Squid Game Thanos'ta nasıl elenirsiniz?",
+    "deathAnswer": "Squid Game Thanos'ta, NPC oyunculara bakarken hareket tespit edilirse anında elenirsiniz. Çok oyunculu rekabette, en küçük hareket bile gözden kaçmaz ve anında elemeye yol açar. Her zaman tetikte olun ve herhangi bir anda durmaya hazır olun.",
+    "win": "Squid Game Thanos'ta nasıl kazanılır?",
+    "winAnswer": "Squid Game Thanos'ta kazanmak için hem hız hem de strateji gereklidir. Elenmekten kaçınırken bitiş çizgisine hızla ulaşmalısınız. NPC'nin hareketlerini mükemmel şekilde tahmin edin, güvenli olduğunda cesurca hareket edin ve tehlike yaklaştığında anında durun. Unutmayın, Squid Game Thanos'ta sadece en hızlı ve en stratejik oyuncular hayatta kalacak."
+  },
+  "Hero": {
+    "title": "Squid Game Thanos Mücadelesi",
+    "description": "Squid Game'in heyecan verici zorluklarını Thanos'un etkileyici gücüyle birleştiren nihai hayatta kalma oyunu. Becerilerinizi test etmeye hazır mısınız?",
+    "action": "Şimdi Oyna"
+  }
+} 

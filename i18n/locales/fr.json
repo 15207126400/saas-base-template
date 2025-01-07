@@ -1,0 +1,43 @@
+{
+  "website": {
+    "name": "Squid Game Thanos",
+    "title": "Squid Game Thanos - Le Défi Ultime de Survie",
+    "description": "Découvrez le jeu de survie ultime qui combine Squid Game avec la puissance de Thanos. Jouez maintenant !"
+  },
+  "Navbar": {
+    "home": "Accueil",
+    "play": "Jouer",
+    "menu": "Menu"
+  },
+  "Footer": {
+    "description": "Rejoignez le défi ultime de survie de Squid Game Thanos, où la compétition intense de Squid Game rencontre la puissance cosmique de Thanos. Une expérience de jeu unique qui repousse vos limites vous attend.",
+    "social": "Réseaux Sociaux",
+    "twitter": "Twitter",
+    "discord": "Discord",
+    "telegram": "Telegram",
+    "legal": "Mentions Légales",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "contact": "Contact",
+    "copyright": "Tous droits réservés"
+  },
+  "Faq": {
+    "title": "Squid Game Thanos - Guide du Jeu",
+    "description": "Apprenez à devenir champion dans le défi ultime de survie de Squid Game Thanos",
+    "howToPlay": "Comment jouer à Squid Game Thanos ?",
+    "howToPlayAnswer": "Squid Game Thanos combine les éléments passionnants du jeu '1, 2, 3, Soleil' avec une action de survie multijoueur. Affrontez de nombreux autres joueurs vers la ligne d'arrivée. Vous pouvez vous déplacer quand le PNJ est de dos, mais vous devez vous arrêter complètement quand il se tourne vers les joueurs.",
+    "controls": "Comment contrôler le personnage dans Squid Game Thanos ?",
+    "controlsAnswer": "Le jeu utilise des contrôles de souris intuitifs. Maintenez le bouton gauche de la souris tout en faisant glisser dans la direction où vous souhaitez vous déplacer. La réaction rapide est cruciale - vous devez relâcher immédiatement la souris pour vous arrêter quand le PNJ se retourne.",
+    "rules": "Quelles sont les règles de Squid Game Thanos ?",
+    "rulesAnswer": "1. Vous ne pouvez vous déplacer que lorsque le PNJ est de dos\n2. Vous devez vous arrêter complètement quand le PNJ regarde les joueurs\n3. Élimination immédiate si un mouvement est détecté pendant la surveillance\n4. Affrontez d'autres joueurs vers l'objectif\n5. Seul le premier joueur à atteindre l'objectif survit",
+    "death": "Comment être éliminé dans Squid Game Thanos ?",
+    "deathAnswer": "Dans Squid Game Thanos, vous serez immédiatement éliminé si un mouvement est détecté lorsque le PNJ regarde vers les joueurs. Dans la compétition multijoueur, même le plus petit mouvement ne passe pas inaperçu et entraîne une élimination immédiate. Restez toujours vigilant et prêt à vous arrêter à tout moment.",
+    "win": "Comment gagner à Squid Game Thanos ?",
+    "winAnswer": "Pour gagner à Squid Game Thanos, vous avez besoin à la fois de vitesse et de stratégie. Vous devez atteindre rapidement la ligne d'arrivée tout en évitant l'élimination. Anticipez parfaitement les mouvements du PNJ, déplacez-vous courageusement quand c'est sûr et arrêtez-vous instantanément quand le danger approche. Rappelez-vous, seuls les joueurs les plus rapides et les plus stratégiques survivront dans Squid Game Thanos."
+  },
+  "Hero": {
+    "title": "Le Défi Squid Game Thanos",
+    "description": "Le jeu de survie ultime qui combine les défis passionnants de Squid Game avec la puissance impressionnante de Thanos. Êtes-vous prêt à tester vos compétences ?",
+    "action": "Jouer Maintenant"
+  }
+}

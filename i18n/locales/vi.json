@@ -1,0 +1,43 @@
+{
+  "website": {
+    "name": "Squid Game Thanos",
+    "title": "Squid Game Thanos - Thử Thách Sinh Tồn Tối Thượng",
+    "description": "Trải nghiệm trò chơi sinh tồn tối thượng kết hợp Squid Game với sức mạnh của Thanos. Chơi ngay!"
+  },
+  "Navbar": {
+    "home": "Trang Chủ",
+    "play": "Chơi",
+    "menu": "Menu"
+  },
+  "Footer": {
+    "description": "Tham gia thử thách sinh tồn tối thượng của Squid Game Thanos, nơi cuộc thi khốc liệt của Squid Game gặp gỡ sức mạnh vũ trụ của Thanos. Một trải nghiệm chơi game độc đáo thách thức giới hạn của bạn đang chờ đợi.",
+    "social": "Mạng Xã Hội",
+    "twitter": "Twitter",
+    "discord": "Discord",
+    "telegram": "Telegram",
+    "legal": "Pháp Lý",
+    "privacy": "Chính Sách Bảo Mật",
+    "terms": "Điều Khoản Sử Dụng",
+    "contact": "Liên Hệ",
+    "copyright": "Đã đăng ký bản quyền"
+  },
+  "Faq": {
+    "title": "Squid Game Thanos - Hướng Dẫn Trò Chơi",
+    "description": "Tìm hiểu cách trở thành nhà vô địch trong thử thách sinh tồn tối thượng của Squid Game Thanos",
+    "howToPlay": "Cách chơi Squid Game Thanos?",
+    "howToPlayAnswer": "Squid Game Thanos kết hợp các yếu tố hấp dẫn của trò chơi 'Đèn Đỏ, Đèn Xanh' với hành động sinh tồn nhiều người chơi. Cạnh tranh với nhiều người chơi khác để về đích. Bạn có thể di chuyển khi NPC quay lưng lại, nhưng phải dừng hoàn toàn khi họ quay về phía người chơi.",
+    "controls": "Cách điều khiển nhân vật trong Squid Game Thanos?",
+    "controlsAnswer": "Trò chơi sử dụng điều khiển chuột trực quan. Giữ nút trái chuột trong khi kéo theo hướng bạn muốn di chuyển. Phản ứng nhanh là rất quan trọng - bạn phải thả chuột ngay lập tức để dừng lại khi NPC quay người.",
+    "rules": "Luật chơi của Squid Game Thanos là gì?",
+    "rulesAnswer": "1. Chỉ được di chuyển khi NPC quay lưng lại\n2. Phải dừng hoàn toàn khi NPC nhìn về phía người chơi\n3. Bị loại ngay lập tức nếu phát hiện di chuyển trong lúc bị giám sát\n4. Cạnh tranh với người chơi khác để về đích\n5. Chỉ người chơi đầu tiên về đích mới sống sót",
+    "death": "Làm thế nào để bị loại trong Squid Game Thanos?",
+    "deathAnswer": "Trong Squid Game Thanos, bạn sẽ bị loại ngay lập tức nếu phát hiện di chuyển khi NPC đang nhìn về phía người chơi. Trong cuộc thi đấu nhiều người chơi, ngay cả chuyển động nhỏ nhất cũng không thể qua mắt và dẫn đến loại ngay lập tức. Luôn cảnh giác và sẵn sàng dừng lại bất cứ lúc nào.",
+    "win": "Làm thế nào để chiến thắng trong Squid Game Thanos?",
+    "winAnswer": "Để chiến thắng trong Squid Game Thanos, bạn cần cả tốc độ và chiến lược. Bạn phải về đích nhanh chóng trong khi tránh bị loại. Dự đoán chính xác chuyển động của NPC, di chuyển dũng cảm khi an toàn và dừng ngay lập tức khi nguy hiểm đến gần. Hãy nhớ, chỉ những người chơi nhanh nhất và có chiến lược nhất mới sống sót trong Squid Game Thanos."
+  },
+  "Hero": {
+    "title": "Thử Thách Squid Game Thanos",
+    "description": "Trò chơi sinh tồn tối thượng kết hợp những thử thách hấp dẫn của Squid Game với sức mạnh ấn tượng của Thanos. Bạn đã sẵn sàng thử thách kỹ năng của mình chưa?",
+    "action": "Chơi Ngay"
+  }
+}
