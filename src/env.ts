@@ -10,7 +10,7 @@ export const env = createEnv({
     NODE_ENV: z
       .enum(["development", "test", "production"])
       .default("development"),
-    VERSION: z.string(),
+    VERSION: z.string().optional(),
     GITHUB_REPO_URL: z.string().default("https://github.com/Ivan/horizon-wing-landing-page"),
     DOMAIN: z.string().default("http://localhost:3000"),
     GA_ID: z.string().optional(),

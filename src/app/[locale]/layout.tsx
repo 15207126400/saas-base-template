@@ -7,8 +7,10 @@ import Footer from '@/components/common/Footer';
 import { GoogleAnalytics } from '@next/third-parties/google'
 import { env } from "@/env";
 import Script from 'next/script';
+import { Metadata } from 'next'
 
-export const metadata = {
+export const metadata: Metadata = {
+  metadataBase: new URL(process.env.DOMAIN ? `https://${process.env.DOMAIN}` : 'http://localhost:3000'),
   icons: {
     icon: [
       {
