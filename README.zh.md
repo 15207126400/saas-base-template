@@ -74,19 +74,6 @@ pnpm install
 pnpm dev
 ```
 
-### 使用 Docker
-
-```bash
-# .env 配置文件
-cp .env.example .env
-
-# docker-compose 启动项目
-docker-compose up -d
-
-# 访问地址
-# http://localhost:3000
-```
-
 ## 项目结构
 
 ```shell
@@ -155,13 +142,9 @@ MIT License © 2024-PRESENT Ivan
 
 ## 联系我们
 
-- 问题反馈：[GitHub Issues](https://github.com/Ivan/horizon-wing-landing-page/issues)
-- 邮件联系：<Ivantech@gmail.com>
+- 问题反馈：[GitHub Issues](https://github.com/15207126400/saas-base-template/issues)
+- 邮件联系：<yanzisu815@gmail.com>
 
 ## 支持项目
 
 如果这个项目对你有帮助，请给它一个 star ⭐️
-
-<a href="https://www.uneed.best/tool/Ivan-landing-page">
-  <img src="https://www.uneed.best/EMBED3.png" alt="Uneed Embed Badge" width="200" height="auto" />
-</a>

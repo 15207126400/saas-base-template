@@ -74,19 +74,6 @@ pnpm install
 pnpm dev
 ```
 
-### Using Docker
-
-```bash
-# .env config file
-cp .env.example .env
-
-# docker-compose up project
-docker-compose up -d
-
-# Access address
-# http://localhost:3000
-```
-
 ## Project Structure
 
 ```shell
@@ -155,13 +142,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-- Issues: [GitHub Issues](https://github.com/Ivan/horizon-wing-landing-page/issues)
-- Email: <Ivantech@gmail.com>
+- Issues: [GitHub Issues](https://github.com/15207126400/saas-base-template/issues)
+- Email: <yanzisu815@gmail.com>
 
 ## Support
 
 If you find this project helpful, please give it a star ⭐️
-
-<a href="https://www.uneed.best/tool/Ivan-landing-page">
-  <img src="https://www.uneed.best/EMBED3.png" alt="Uneed Embed Badge" width="200" height="auto" />
-</a>
