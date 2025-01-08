@@ -4,16 +4,10 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "dev": "next dev",
     "build": "next build",
-    "check": "next lint && tsc --noEmit",
-    "dev": "next dev --turbo",
-    "lint": "next lint",
-    "lint:fix": "next lint --fix",
-    "preview": "next build && next start",
     "start": "next start",
-    "typecheck": "tsc --noEmit",
-    "format:write": "prettier --write \"**/*.{ts,tsx,js,jsx,mdx}\" --cache",
-    "format:check": "prettier --check \"**/*.{ts,tsx,js,jsx,mdx}\" --cache"
+    "lint": "next lint"
   },
   "dependencies": {
     "@auth/prisma-adapter": "^2.7.2",
