@@ -22,14 +22,43 @@ A modern landing page template built with Next.js, Tailwind CSS, and next-intl f
 PageSpeed Insights performance metrics:
 
 **Desktop Performance:**
-![Desktop Performance](docs/1.png)
+![Desktop Performance](/public/1.png)
 
 **Mobile Performance:**
-![Mobile Performance](docs/2.png)
+![Mobile Performance](/public/2.png)
 
 These scores demonstrate the template's excellent performance optimization across both desktop and mobile devices.
 
-## Getting Started
+## Deployment
+
+### Deploy with Vercel (Recommended)
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com).
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FIvan%2Fhorizon-wing-landing-page)
+
+1. Click the "Deploy" button above
+2. Import your GitHub repository
+3. Vercel will automatically detect Next.js and configure the build settings
+4. Your site will be deployed to a global CDN with HTTPS enabled
+
+### Local Development
+
+First, install pnpm globally (one-time setup):
+
+```bash
+# macOS - Recommended
+# 1. Install Node.js first if you haven't (using Homebrew)
+brew install node
+
+# 2. Then install pnpm using npm
+npm install -g pnpm
+
+# Verify installation
+pnpm --version
+```
+
+Then, run the development server:
 
 ```bash
 # Clone the repository
@@ -45,7 +74,7 @@ pnpm install
 pnpm dev
 ```
 
-# Using Docker to start
+### Using Docker
 
 ```bash
 # .env config file

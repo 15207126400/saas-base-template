@@ -22,14 +22,43 @@
 PageSpeed Insights 性能评分：
 
 **桌面端性能：**
-![桌面端性能](docs/1.png)
+![桌面端性能](/public/1.png)
 
 **移动端性能：**
-![移动端性能](docs/2.png)
+![移动端性能](/public/2.png)
 
 这些评分展示了本模板在桌面端和移动端的出色性能优化。
 
-## 快速开始
+## 部署方式
+
+### Vercel 部署（推荐）
+
+使用 [Vercel 平台](https://vercel.com) 是部署 Next.js 应用最简单的方式。
+
+[![使用 Vercel 部署](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FIvan%2Fhorizon-wing-landing-page)
+
+1. 点击上方的"部署"按钮
+2. 导入你的 GitHub 仓库
+3. Vercel 将自动检测 Next.js 并配置构建设置
+4. 你的网站将部署到全球 CDN 网络，并启用 HTTPS
+
+### 本地开发
+
+首先，全局安装 pnpm（仅需安装一次）：
+
+```bash
+# macOS - 推荐方式
+# 1. 如果还没安装 Node.js，先安装（使用 Homebrew）
+brew install node
+
+# 2. 然后使用 npm 安装 pnpm
+npm install -g pnpm
+
+# 验证安装
+pnpm --version
+```
+
+然后，运行开发服务器：
 
 ```bash
 # 克隆仓库
@@ -45,7 +74,7 @@ pnpm install
 pnpm dev
 ```
 
-# 使用 Docker 启动
+### 使用 Docker
 
 ```bash
 # .env 配置文件
